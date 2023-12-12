@@ -1,0 +1,38 @@
+.about-wrapper {
+  border-bottom: 2px solid #172755;
+  width: 90%;
+  margin: 2rem auto;
+  padding-bottom: 3rem;
+
+}
+
+.heading-about {
+  color: #172755;
+  margin: 1rem auto;
+}
+
+.rule-about {
+  border: 0.2rem solid #7620ff;
+  margin-bottom: 1rem;
+  background-color: #7620ff;
+}
+
+.about {
+  font-size: 1.5rem;
+  max-width: 70rem;
+  font-family: "Poppins", sans-serif;
+  color: #6b6f7d;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+
+.about-image {
+  width: 100%;
+}
+
+.about-image img {
+  width: 100%;
+  border-radius: 2%;
+  /* box-shadow: 10px 10px 30px 0 rgba(0, 0, 0, 0.3); */
+}
